@@ -1,0 +1,161 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KisumuWaterProject
+</name>
+</assembly>
+<members>
+<member name="T:KisumuWaterProject.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Activity_History_40px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.baseline_close_black_18dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Cancel_30px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Cancel_64px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Card_Payment_30px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Cash_in_Hand_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Clock_40px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.close_up_drop_of_water_ripple_156548">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Delete_20px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Delete_20px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Delete_25px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Industrial_Scales_Connected_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Industrial_Scales_Connected_50px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Login_48px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Male_User_40px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Male_User_40px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Male_User_40px2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Merchant_Account_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Minus_20px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Minus_30px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Natural_User_Interface_2_26px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Natural_User_Interface_2_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Payment_History_30px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.pexels_photo_1536431">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.pexels_photo_459388">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.pexels_photo_722149">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KisumuWaterProject.My.Resources.Resources.Transaction_30px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
